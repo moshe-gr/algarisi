@@ -1,0 +1,16 @@
+C:\Users\stu\source\repos\c-studys\bin\Debug\net5.0\c-studys.exe
+C:\Users\stu\source\repos\c-studys\bin\Debug\net5.0\c-studys.deps.json
+C:\Users\stu\source\repos\c-studys\bin\Debug\net5.0\c-studys.runtimeconfig.json
+C:\Users\stu\source\repos\c-studys\bin\Debug\net5.0\c-studys.runtimeconfig.dev.json
+C:\Users\stu\source\repos\c-studys\bin\Debug\net5.0\c-studys.dll
+C:\Users\stu\source\repos\c-studys\bin\Debug\net5.0\ref\c-studys.dll
+C:\Users\stu\source\repos\c-studys\bin\Debug\net5.0\c-studys.pdb
+C:\Users\stu\source\repos\c-studys\obj\Debug\net5.0\c-studys.csprojAssemblyReference.cache
+C:\Users\stu\source\repos\c-studys\obj\Debug\net5.0\c-studys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stu\source\repos\c-studys\obj\Debug\net5.0\c-studys.AssemblyInfoInputs.cache
+C:\Users\stu\source\repos\c-studys\obj\Debug\net5.0\c-studys.AssemblyInfo.cs
+C:\Users\stu\source\repos\c-studys\obj\Debug\net5.0\c-studys.csproj.CoreCompileInputs.cache
+C:\Users\stu\source\repos\c-studys\obj\Debug\net5.0\c-studys.dll
+C:\Users\stu\source\repos\c-studys\obj\Debug\net5.0\ref\c-studys.dll
+C:\Users\stu\source\repos\c-studys\obj\Debug\net5.0\c-studys.pdb
+C:\Users\stu\source\repos\c-studys\obj\Debug\net5.0\c-studys.genruntimeconfig.cache

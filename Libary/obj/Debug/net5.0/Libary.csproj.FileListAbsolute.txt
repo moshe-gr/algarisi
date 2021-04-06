@@ -1,0 +1,16 @@
+C:\Users\stu\source\repos\Libary\bin\Debug\net5.0\Libary.exe
+C:\Users\stu\source\repos\Libary\bin\Debug\net5.0\Libary.deps.json
+C:\Users\stu\source\repos\Libary\bin\Debug\net5.0\Libary.runtimeconfig.json
+C:\Users\stu\source\repos\Libary\bin\Debug\net5.0\Libary.runtimeconfig.dev.json
+C:\Users\stu\source\repos\Libary\bin\Debug\net5.0\Libary.dll
+C:\Users\stu\source\repos\Libary\bin\Debug\net5.0\ref\Libary.dll
+C:\Users\stu\source\repos\Libary\bin\Debug\net5.0\Libary.pdb
+C:\Users\stu\source\repos\Libary\obj\Debug\net5.0\Libary.csprojAssemblyReference.cache
+C:\Users\stu\source\repos\Libary\obj\Debug\net5.0\Libary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stu\source\repos\Libary\obj\Debug\net5.0\Libary.AssemblyInfoInputs.cache
+C:\Users\stu\source\repos\Libary\obj\Debug\net5.0\Libary.AssemblyInfo.cs
+C:\Users\stu\source\repos\Libary\obj\Debug\net5.0\Libary.csproj.CoreCompileInputs.cache
+C:\Users\stu\source\repos\Libary\obj\Debug\net5.0\Libary.dll
+C:\Users\stu\source\repos\Libary\obj\Debug\net5.0\ref\Libary.dll
+C:\Users\stu\source\repos\Libary\obj\Debug\net5.0\Libary.pdb
+C:\Users\stu\source\repos\Libary\obj\Debug\net5.0\Libary.genruntimeconfig.cache
