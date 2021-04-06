@@ -51,8 +51,7 @@ namespace Calculator
             {
                 try
                 {
-                    int z = (int)(a / b);
-                    Console.WriteLine(z);
+                    Console.WriteLine(a / b);
                 }
                 catch(DivideByZeroException e)
                 {
