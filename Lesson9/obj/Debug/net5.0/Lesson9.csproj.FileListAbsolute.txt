@@ -1,0 +1,16 @@
+C:\Users\stu\source\repos\Lesson9\bin\Debug\net5.0\Lesson9.exe
+C:\Users\stu\source\repos\Lesson9\bin\Debug\net5.0\Lesson9.deps.json
+C:\Users\stu\source\repos\Lesson9\bin\Debug\net5.0\Lesson9.runtimeconfig.json
+C:\Users\stu\source\repos\Lesson9\bin\Debug\net5.0\Lesson9.runtimeconfig.dev.json
+C:\Users\stu\source\repos\Lesson9\bin\Debug\net5.0\Lesson9.dll
+C:\Users\stu\source\repos\Lesson9\bin\Debug\net5.0\ref\Lesson9.dll
+C:\Users\stu\source\repos\Lesson9\bin\Debug\net5.0\Lesson9.pdb
+C:\Users\stu\source\repos\Lesson9\obj\Debug\net5.0\Lesson9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stu\source\repos\Lesson9\obj\Debug\net5.0\Lesson9.AssemblyInfoInputs.cache
+C:\Users\stu\source\repos\Lesson9\obj\Debug\net5.0\Lesson9.AssemblyInfo.cs
+C:\Users\stu\source\repos\Lesson9\obj\Debug\net5.0\Lesson9.csproj.CoreCompileInputs.cache
+C:\Users\stu\source\repos\Lesson9\obj\Debug\net5.0\Lesson9.dll
+C:\Users\stu\source\repos\Lesson9\obj\Debug\net5.0\ref\Lesson9.dll
+C:\Users\stu\source\repos\Lesson9\obj\Debug\net5.0\Lesson9.pdb
+C:\Users\stu\source\repos\Lesson9\obj\Debug\net5.0\Lesson9.genruntimeconfig.cache
+C:\Users\stu\source\repos\Lesson9\obj\Debug\net5.0\Lesson9.csprojAssemblyReference.cache

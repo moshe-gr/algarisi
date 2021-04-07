@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stu\\source\\repos\\Enum\\EnumStudy.csproj",
-      "projectName": "EnumStudy",
-      "projectPath": "C:\\Users\\stu\\source\\repos\\Enum\\EnumStudy.csproj",
+      "projectUniqueName": "C:\\Users\\stu\\source\\repos\\Lesson9\\Lesson9.csproj",
+      "projectName": "Lesson9",
+      "projectPath": "C:\\Users\\stu\\source\\repos\\Lesson9\\Lesson9.csproj",
       "packagesPath": "C:\\Users\\stu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stu\\source\\repos\\Enum\\obj\\",
+      "outputPath": "C:\\Users\\stu\\source\\repos\\Lesson9\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stu\\AppData\\Roaming\\NuGet\\NuGet.Config",
