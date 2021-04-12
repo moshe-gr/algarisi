@@ -8,32 +8,32 @@ namespace StudyForTest
 {
     class City
     {
-        public static void AddStudent(Student student)
+        public static void AddStudent(University university, Student student)
         {
-           if (University.students.Exists(stu => stu.id == student.id))
+           if (university.students.Exists(stu => stu.id == student.id))
             {
                 throw new DuplicateRecordException();
             }
             else
             {
-                University.students.Add(student);
-                University.num_of_student++;
+                university.students.Add(student);
+                university.num_of_student++;
             }
         }
-        public static long TuitionSum()
+        public static long TuitionSum(University university)
         {
             long sum = 0;
-            foreach (var item in University.students)
+            foreach (var item in university.students)
             {
                 sum += item.Tuition();
             }
             return sum;
         }
-        public static void PrintDetails()
+        public static void PrintDetails(University university)
         {
-            foreach (var item in University.students)
+            foreach (var item in university.students)
             {
-                Console.WriteLine(item);
+                Console.WriteLine(university.ToString() + " " + item);
             }
         }
     }

@@ -8,7 +8,16 @@ namespace StudyForTest
 {
     class University
     {
-        static public int num_of_student;
-        static public List<Student> students = new List<Student>();       
+        public string name;
+        public int num_of_student;
+        public List<Student> students = new List<Student>();
+        public University(string name)
+        {
+            this.name = name;
+        }
+        public override string ToString()
+        {
+            return $"University of {name}.";
+        }
     }
 }

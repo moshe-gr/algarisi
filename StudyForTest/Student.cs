@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace StudyForTest
 {
-    class Student
+    class Student: IComparable<Student>
     {
         public string name;
         public long id;
@@ -26,6 +26,11 @@ namespace StudyForTest
         public override string ToString()
         {
             return $"Name: {name} Id: {id} Tuition: {Tuition()}.";
+        }
+
+        public int CompareTo(Student other)
+        {
+            return name.CompareTo(other.name);
         }
     }
 }
