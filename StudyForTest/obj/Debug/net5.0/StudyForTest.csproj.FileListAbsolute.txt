@@ -1,0 +1,16 @@
+C:\Users\stu\source\repos\StudyForTest\bin\Debug\net5.0\StudyForTest.exe
+C:\Users\stu\source\repos\StudyForTest\bin\Debug\net5.0\StudyForTest.deps.json
+C:\Users\stu\source\repos\StudyForTest\bin\Debug\net5.0\StudyForTest.runtimeconfig.json
+C:\Users\stu\source\repos\StudyForTest\bin\Debug\net5.0\StudyForTest.runtimeconfig.dev.json
+C:\Users\stu\source\repos\StudyForTest\bin\Debug\net5.0\StudyForTest.dll
+C:\Users\stu\source\repos\StudyForTest\bin\Debug\net5.0\ref\StudyForTest.dll
+C:\Users\stu\source\repos\StudyForTest\bin\Debug\net5.0\StudyForTest.pdb
+C:\Users\stu\source\repos\StudyForTest\obj\Debug\net5.0\StudyForTest.csprojAssemblyReference.cache
+C:\Users\stu\source\repos\StudyForTest\obj\Debug\net5.0\StudyForTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stu\source\repos\StudyForTest\obj\Debug\net5.0\StudyForTest.AssemblyInfoInputs.cache
+C:\Users\stu\source\repos\StudyForTest\obj\Debug\net5.0\StudyForTest.AssemblyInfo.cs
+C:\Users\stu\source\repos\StudyForTest\obj\Debug\net5.0\StudyForTest.csproj.CoreCompileInputs.cache
+C:\Users\stu\source\repos\StudyForTest\obj\Debug\net5.0\StudyForTest.dll
+C:\Users\stu\source\repos\StudyForTest\obj\Debug\net5.0\ref\StudyForTest.dll
+C:\Users\stu\source\repos\StudyForTest\obj\Debug\net5.0\StudyForTest.pdb
+C:\Users\stu\source\repos\StudyForTest\obj\Debug\net5.0\StudyForTest.genruntimeconfig.cache

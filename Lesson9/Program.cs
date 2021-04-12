@@ -5,7 +5,8 @@ namespace Lesson9
 {
     class Program
     {
-        static string lo = "";
+        static string lockd= "";
+        static int numWaiting;
         static void Main(string[] args)
         {
             Car[] cars = {
@@ -28,13 +29,23 @@ namespace Lesson9
         }
         public static void Wash(Car car)
         {
-            Console.WriteLine(car.name + " is waiting");           
-            lock (lo)
-            {               
+            numWaiting++;
+            if (numWaiting > 1)
+            {
+                Console.WriteLine(car.name + " is waiting");
+                Console.WriteLine(numWaiting + " cars waiting");
+            }                  
+            lock (lockd)
+            {
+                numWaiting--;
                 Console.WriteLine(car.name + " starting wash");
                 Thread.Sleep(5 * 1000);
                 Console.WriteLine(car.name + " wash ended");
                 car.needsWash = false;
+                if (numWaiting > 1)
+                {                    
+                    Console.WriteLine(numWaiting - 1 + " cars waiting");
+                }
             }
         }
     }
