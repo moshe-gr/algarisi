@@ -1,0 +1,16 @@
+C:\Users\stu\source\repos\IOHomeWork\bin\Debug\net5.0\IOHomeWork.exe
+C:\Users\stu\source\repos\IOHomeWork\bin\Debug\net5.0\IOHomeWork.deps.json
+C:\Users\stu\source\repos\IOHomeWork\bin\Debug\net5.0\IOHomeWork.runtimeconfig.json
+C:\Users\stu\source\repos\IOHomeWork\bin\Debug\net5.0\IOHomeWork.runtimeconfig.dev.json
+C:\Users\stu\source\repos\IOHomeWork\bin\Debug\net5.0\IOHomeWork.dll
+C:\Users\stu\source\repos\IOHomeWork\bin\Debug\net5.0\ref\IOHomeWork.dll
+C:\Users\stu\source\repos\IOHomeWork\bin\Debug\net5.0\IOHomeWork.pdb
+C:\Users\stu\source\repos\IOHomeWork\obj\Debug\net5.0\IOHomeWork.csprojAssemblyReference.cache
+C:\Users\stu\source\repos\IOHomeWork\obj\Debug\net5.0\IOHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stu\source\repos\IOHomeWork\obj\Debug\net5.0\IOHomeWork.AssemblyInfoInputs.cache
+C:\Users\stu\source\repos\IOHomeWork\obj\Debug\net5.0\IOHomeWork.AssemblyInfo.cs
+C:\Users\stu\source\repos\IOHomeWork\obj\Debug\net5.0\IOHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\stu\source\repos\IOHomeWork\obj\Debug\net5.0\IOHomeWork.dll
+C:\Users\stu\source\repos\IOHomeWork\obj\Debug\net5.0\ref\IOHomeWork.dll
+C:\Users\stu\source\repos\IOHomeWork\obj\Debug\net5.0\IOHomeWork.pdb
+C:\Users\stu\source\repos\IOHomeWork\obj\Debug\net5.0\IOHomeWork.genruntimeconfig.cache

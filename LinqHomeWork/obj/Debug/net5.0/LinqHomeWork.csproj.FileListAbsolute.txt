@@ -1,0 +1,16 @@
+C:\Users\stu\source\repos\LinqHomeWork\bin\Debug\net5.0\LinqHomeWork.exe
+C:\Users\stu\source\repos\LinqHomeWork\bin\Debug\net5.0\LinqHomeWork.deps.json
+C:\Users\stu\source\repos\LinqHomeWork\bin\Debug\net5.0\LinqHomeWork.runtimeconfig.json
+C:\Users\stu\source\repos\LinqHomeWork\bin\Debug\net5.0\LinqHomeWork.runtimeconfig.dev.json
+C:\Users\stu\source\repos\LinqHomeWork\bin\Debug\net5.0\LinqHomeWork.dll
+C:\Users\stu\source\repos\LinqHomeWork\bin\Debug\net5.0\ref\LinqHomeWork.dll
+C:\Users\stu\source\repos\LinqHomeWork\bin\Debug\net5.0\LinqHomeWork.pdb
+C:\Users\stu\source\repos\LinqHomeWork\obj\Debug\net5.0\LinqHomeWork.csprojAssemblyReference.cache
+C:\Users\stu\source\repos\LinqHomeWork\obj\Debug\net5.0\LinqHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stu\source\repos\LinqHomeWork\obj\Debug\net5.0\LinqHomeWork.AssemblyInfoInputs.cache
+C:\Users\stu\source\repos\LinqHomeWork\obj\Debug\net5.0\LinqHomeWork.AssemblyInfo.cs
+C:\Users\stu\source\repos\LinqHomeWork\obj\Debug\net5.0\LinqHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\stu\source\repos\LinqHomeWork\obj\Debug\net5.0\LinqHomeWork.dll
+C:\Users\stu\source\repos\LinqHomeWork\obj\Debug\net5.0\ref\LinqHomeWork.dll
+C:\Users\stu\source\repos\LinqHomeWork\obj\Debug\net5.0\LinqHomeWork.pdb
+C:\Users\stu\source\repos\LinqHomeWork\obj\Debug\net5.0\LinqHomeWork.genruntimeconfig.cache

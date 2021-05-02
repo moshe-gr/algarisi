@@ -21,7 +21,7 @@ namespace StudyForTest
                 }
             }
             university1.students.Sort();
-            Console.WriteLine(university2.ToString() + " num of students: " + university1.num_of_student);
+            Console.WriteLine(university1.ToString() + " num of students: " + university1.num_of_student);
             Console.WriteLine(university1.ToString() + " total tuition: " + City.TuitionSum(university1));
             City.PrintDetails(university1);
             for (int i = 0; i < 30; i++)
@@ -51,7 +51,7 @@ namespace StudyForTest
                 }
             }
             university3.students.Sort();
-            Console.WriteLine(university2.ToString() + " num of students: " + university3.num_of_student);
+            Console.WriteLine(university3.ToString() + " num of students: " + university3.num_of_student);
             Console.WriteLine(university3.ToString() + " total tuition: " + City.TuitionSum(university3));
             City.PrintDetails(university3);
         

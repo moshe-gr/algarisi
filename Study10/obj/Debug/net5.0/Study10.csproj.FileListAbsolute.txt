@@ -1,0 +1,16 @@
+C:\Users\stu\source\repos\Study10\bin\Debug\net5.0\Study10.exe
+C:\Users\stu\source\repos\Study10\bin\Debug\net5.0\Study10.deps.json
+C:\Users\stu\source\repos\Study10\bin\Debug\net5.0\Study10.runtimeconfig.json
+C:\Users\stu\source\repos\Study10\bin\Debug\net5.0\Study10.runtimeconfig.dev.json
+C:\Users\stu\source\repos\Study10\bin\Debug\net5.0\Study10.dll
+C:\Users\stu\source\repos\Study10\bin\Debug\net5.0\ref\Study10.dll
+C:\Users\stu\source\repos\Study10\bin\Debug\net5.0\Study10.pdb
+C:\Users\stu\source\repos\Study10\obj\Debug\net5.0\Study10.csprojAssemblyReference.cache
+C:\Users\stu\source\repos\Study10\obj\Debug\net5.0\Study10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stu\source\repos\Study10\obj\Debug\net5.0\Study10.AssemblyInfoInputs.cache
+C:\Users\stu\source\repos\Study10\obj\Debug\net5.0\Study10.AssemblyInfo.cs
+C:\Users\stu\source\repos\Study10\obj\Debug\net5.0\Study10.csproj.CoreCompileInputs.cache
+C:\Users\stu\source\repos\Study10\obj\Debug\net5.0\Study10.dll
+C:\Users\stu\source\repos\Study10\obj\Debug\net5.0\ref\Study10.dll
+C:\Users\stu\source\repos\Study10\obj\Debug\net5.0\Study10.pdb
+C:\Users\stu\source\repos\Study10\obj\Debug\net5.0\Study10.genruntimeconfig.cache
